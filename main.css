@@ -1,4 +1,7 @@
-
+body{
+  font-family: 'PT Sans Narrow',sans-serif;
+  font-weight: 700;
+}
 
 h1, h2{
     font-family: 'PT Sans Narrow',sans-serif;
@@ -6,7 +9,7 @@ h1, h2{
 }
 
 img{
-  height: 100px;
-  border-radius: 50px;
+  height: 50px;
+  border-radius: 25px;
 
 }
